@@ -1,7 +1,7 @@
 package com.practice;
 
 public class Problem8 {
-
+//another sample commit
 	public static void main(String[] args) {
 
 		String str = "73167176531330624919225119674426574742355349194934"

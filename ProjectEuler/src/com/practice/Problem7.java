@@ -4,6 +4,8 @@ public class Problem7 {
 
 	
 	
+	
+	//this is a sample test comment
 	public static boolean isPrime(int num){
 		if(num < 2)
 			return false;
